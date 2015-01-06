@@ -12,7 +12,7 @@ exports.MyComponent = Component.specialize(/** @lends MyComponent# */ {
     constructor: {
         value: function MyComponent() {
             this.super();
-            console.log('test');
+            console.log('test2');
         }
     }
 });
